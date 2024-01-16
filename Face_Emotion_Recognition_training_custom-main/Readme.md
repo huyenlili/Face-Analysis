@@ -16,6 +16,10 @@ Tập ảnh được cắt được đưa vào file trainmdel để predict ra t
         Skintone
 
 Lưu lại các thông tin vào file answer
+
+
+
+
  Note: Các file images_sample.html là các folder ảnh được chia sẻ và lấy đường dẫn kết nối từ máy server để đọc file và lấy đường dẫn vì nó quá nặng nên không lưu được trên máy cá nhân 
 
 Tham khảo
