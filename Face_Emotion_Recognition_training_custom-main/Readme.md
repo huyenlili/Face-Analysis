@@ -22,6 +22,6 @@ Lưu lại các thông tin vào file answer
 
  Note: Các file images_sample.html là các folder ảnh được chia sẻ và lấy đường dẫn kết nối từ máy server để đọc file và lấy đường dẫn vì nó quá nặng nên không lưu được trên máy cá nhân 
 
-Tham khảo
+Tập ảnh đã qua xử lí
  # Tập ảnh đã crop: https://drive.google.com/drive/folders/1L5-n2UsvKbZEUbQJCU_o5ARTKl6QCR1f?usp=sharing
  # Tập ảnh đã detect: https://drive.google.com/drive/folders/1AHhtt6hW7LY17B0o6nzT2lPvg6Ij0us8?usp=sharing
